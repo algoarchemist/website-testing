@@ -1,0 +1,24 @@
+1:"$Sreact.fragment"
+2:I[47257,["/website-testing/_next/static/chunks/0h2qsuyze9ds1.js","/website-testing/_next/static/chunks/01-_f6kncbj3v.js","/website-testing/_next/static/chunks/2l7yo6ovseoaq.js","/website-testing/_next/static/chunks/3w1f4ecdrx-e3.js"],"ClientPageRoot"]
+3:I[63936,["/website-testing/_next/static/chunks/0h2qsuyze9ds1.js","/website-testing/_next/static/chunks/01-_f6kncbj3v.js","/website-testing/_next/static/chunks/2l7yo6ovseoaq.js","/website-testing/_next/static/chunks/3w1f4ecdrx-e3.js","/website-testing/_next/static/chunks/0w0xjqgq3zy9g.js"],"default"]
+6:I[97367,["/website-testing/_next/static/chunks/0h2qsuyze9ds1.js","/website-testing/_next/static/chunks/01-_f6kncbj3v.js","/website-testing/_next/static/chunks/2l7yo6ovseoaq.js","/website-testing/_next/static/chunks/3w1f4ecdrx-e3.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+b:I[97367,["/website-testing/_next/static/chunks/0h2qsuyze9ds1.js","/website-testing/_next/static/chunks/01-_f6kncbj3v.js","/website-testing/_next/static/chunks/2l7yo6ovseoaq.js","/website-testing/_next/static/chunks/3w1f4ecdrx-e3.js"],"ViewportBoundary"]
+c:I[97367,["/website-testing/_next/static/chunks/0h2qsuyze9ds1.js","/website-testing/_next/static/chunks/01-_f6kncbj3v.js","/website-testing/_next/static/chunks/2l7yo6ovseoaq.js","/website-testing/_next/static/chunks/3w1f4ecdrx-e3.js"],"MetadataBoundary"]
+d:I[27201,["/website-testing/_next/static/chunks/0h2qsuyze9ds1.js","/website-testing/_next/static/chunks/01-_f6kncbj3v.js","/website-testing/_next/static/chunks/2l7yo6ovseoaq.js","/website-testing/_next/static/chunks/3w1f4ecdrx-e3.js"],"IconMark"]
+f:I[39756,["/website-testing/_next/static/chunks/0h2qsuyze9ds1.js","/website-testing/_next/static/chunks/01-_f6kncbj3v.js","/website-testing/_next/static/chunks/2l7yo6ovseoaq.js","/website-testing/_next/static/chunks/3w1f4ecdrx-e3.js"],"default"]
+10:I[37457,["/website-testing/_next/static/chunks/0h2qsuyze9ds1.js","/website-testing/_next/static/chunks/01-_f6kncbj3v.js","/website-testing/_next/static/chunks/2l7yo6ovseoaq.js","/website-testing/_next/static/chunks/3w1f4ecdrx-e3.js"],"default"]
+a:X
+12:X
+12:C
+0:{"buildId":"Ag0N8Kxt8v7kBnSFy4CrD","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/website-testing/_next/static/chunks/0w0xjqgq3zy9g.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":"$@9","staleTime":"$a","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$Lb",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Andropedia | Official Student Technology Club"}],["$","meta","1",{"name":"description","content":"Official platform of Andropedia: student technology club driving innovation in Technical, Web, Design, Media, and PR. Explore our domains, member evaluations, and live leaderboards."}],["$","meta","2",{"name":"author","content":"Andropedia Tech Council"}],["$","meta","3",{"name":"keywords","content":"Andropedia,Student Tech Club,Technology Club,Web Development,Competitive Programming,UI/UX Design,Leaderboard,Weekly Task Evaluation"}],["$","meta","4",{"property":"og:title","content":"Andropedia | Official Student Technology Club"}],["$","meta","5",{"property":"og:description","content":"Pioneering technology, building creators. Explore domains, projects, hackathons, and live member leaderboards."}],["$","meta","6",{"property":"og:site_name","content":"Andropedia"}],["$","meta","7",{"property":"og:type","content":"website"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"Andropedia | Official Student Technology Club"}],["$","meta","10",{"name":"twitter:description","content":"Pioneering technology, building creators. Explore domains, projects, hackathons, and live member leaderboards."}],["$","link","11",{"rel":"icon","href":"/website-testing/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$Ld","12",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@e","staleTime":"$a","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lf",null,{"parallelRouterKey":"children","template":["$","$L10",null,{}]}]]}],"isPartial":"$@11","staleTime":"$a","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@13","rootVaryParams":null,"needsRuntimeRequest":"$@14"}
+4:{}
+5:"$0:data:0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null
+14:true
+a:300
+a:C
+13:0
+e:"$undefined"
+11:"$undefined"
+9:"$undefined"
